@@ -1,0 +1,79 @@
+.text-highlight {
+    color: #97c93e !important;
+    
+}
+
+.btn-highlight {
+    background-color: #97c93e !important; 
+    color: white;
+
+}
+
+
+.btn-highlight:hover {
+    background-color: #82ad36; 
+}
+
+
+#header img {
+    width: 80px;
+}
+
+#Main .carousel-inner img {
+    max-height: 60vh;
+    object-fit: cover;
+    filter: grayscale(70%);
+
+}
+
+#carousel  {
+
+    position: relative;
+
+}
+
+#carousel .overlay {
+
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgb(0,0,0 0,5);
+    color: white;
+
+
+}
+
+
+#carousel .overlay .container,
+#carousel .overlay .row { 
+    height: 100%;
+
+
+}
+
+#place-time  {
+   background-color: #343a40;
+   color: white;
+
+
+}
+
+#place-time img {
+    max-width: 100%;
+
+
+}
+
+
+#footer {
+background: linear-gradient(90deg,#1c3643,#273b47 25%,#1e5372);
+
+}
+
+#footer a {
+    color: white;
+
+}
+
